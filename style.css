@@ -1,0 +1,52 @@
+/* Ensure to include normalize.css or reset CSS */
+
+body {
+    background-color: rgb(137, 200, 207);   
+    border-top: 16px double black;
+    border-left: 16px double black;
+    border-right: 16px double black;
+    border-bottom: 2px double black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.des {
+    padding: 0 5% 0 8%;
+}
+
+.wel {
+    display: block;
+    width: 50%;
+    border-radius: 2%;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.dell {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+    font-size: 100px;
+    color: azure;
+}
+
+.section-title {
+    color: azure;
+    font-size: 130px;
+    text-align: center;
+}
+
+.subtitle {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
